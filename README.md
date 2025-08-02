@@ -38,6 +38,9 @@ flames-game/
 
 ---
 
+flamess outputtt .png
+
+---
 ## ▶️ How to Run  
 ### `flames.py`
 
