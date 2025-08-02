@@ -38,7 +38,7 @@ flames-game/
 
 ---
 
-flamess outputtt .png
+![Flames output](flamess outputtt .png)
 
 ---
 ## ▶️ How to Run  
