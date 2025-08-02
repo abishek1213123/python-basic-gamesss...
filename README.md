@@ -38,7 +38,7 @@ flames-game/
 
 ---
 
-![Flames output](flamess outputtt .png)
+<img width="389" height="65" alt="flamess outputtt " src="https://github.com/user-attachments/assets/4a502e9f-85e8-4f22-b604-0b829f1609ea" />
 
 ---
 ## ▶️ How to Run  
